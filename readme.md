@@ -25,7 +25,7 @@ The product's core idea is closing the **"Safety Gap"** — the grey zone betwee
 ### Product structure (from the client's content docs, 28.07.2026)
 - Three value pillars: **Dostępność 24/7**, **Nie obciążamy bliskich**, **Skuteczne wsparcie**.
 - Two core features: **Obserwacja** (route monitoring) and **Pomoc** (one-tap help), fronted by the **Asystent Bezpieczeństwa**.
-- Subscription, 7-day free trial. **PL:** Personal 19,99 zł · Family 3 53,97 zł · Family 5 89,95 zł/mo. **UK:** Personal £7.99 · Family 3 £20.97 · Family 5 £34.95/mo. Annual = monthly × 10 (2 months free). Voucher: 360 days for 199,90 zł.
+- Subscription, no trial period: 3 Observations and 1 Help call free to start. **PL:** Personal 19,99 zł · Family 3 53,97 zł · Family 5 89,95 zł/mo. **UK:** Personal £7.99 · Family 3 £20.97 · Family 5 £34.95/mo. Annual = monthly × 10 (2 months free). Voucher: 360 days for 199,90 zł.
 - Company: SFM SOFT Sp. z o.o., Warszawa (KRS 0001024285).
 - **Full facts, pricing, site map and approved copy: `guidelines/content-and-facts.md`.**
 
@@ -95,7 +95,7 @@ This system had no source component inventory, so a standard set was authored, p
 
 **Emoji:** not used in the product UI. Emoji appear only in marketing award call-outs (🏆🥇). Keep product surfaces emoji-free.
 
-**Numbers & claims:** "24/7", "na terenie Polski i Wielkiej Brytanii", "jednym kliknięciem", "testuj 7 dni za darmo". Concrete and reassuring, no hype. **Never invent a claim, price, or coverage area** — take them from `guidelines/content-and-facts.md`.
+**Numbers & claims:** "24/7", "na terenie Polski i Wielkiej Brytanii", "jednym kliknięciem", "wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy". Concrete and reassuring, no hype. **Never invent a claim, price, or coverage area** — take them from `guidelines/content-and-facts.md`.
 
 **Capitalization of the two actions:** **Obserwacja** and **Pomoc** are proper nouns in copy ("Zamów Obserwację trasy lub wezwij Pomoc"), not generic verbs.
 
@@ -106,7 +106,7 @@ This system had no source component inventory, so a standard set was authored, p
 - Safety gap / luka → the safety gap
 - Wybierz punkt docelowy → Choose your destination
 
-**Example copy (PL):** "Asystent Bezpieczeństwa 24/7" · "Zamów Obserwację trasy lub wezwij Pomoc jednym kliknięciem." · "Poczuj się bezpiecznie. Pobierz aplikację i testuj przez 7 dni za darmo."
+**Example copy (PL):** "Asystent Bezpieczeństwa 24/7" · "Zamów Obserwację trasy lub wezwij Pomoc jednym kliknięciem." · "Poczuj się bezpiecznie. Pobierz aplikację i wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy."
 
 ---
 

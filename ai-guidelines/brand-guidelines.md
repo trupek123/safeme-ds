@@ -85,8 +85,8 @@ When you propose something new, offer 2–3 distinct options where useful, and l
 ### Vocabulary
 
 Use:
-- PL: Asystent Bezpieczeństwa, czuwa, reaguje, jednym kliknięciem / jednym dotknięciem, 24/7, prawdziwa osoba, człowiek, nie bot, koncesjonowana agencja ochrony, poczuj się bezpiecznie, testuj 7 dni za darmo, Twoi bliscy, spokój.
-- EN: Safety Assistant, watches over, responds, one tap, 24/7, a real person, a person not a bot, licensed security agency, feel safe, try it free for 7 days, your loved ones.
+- PL: Asystent Bezpieczeństwa, czuwa, reaguje, jednym kliknięciem / jednym dotknięciem, 24/7, prawdziwa osoba, człowiek, nie bot, koncesjonowana agencja ochrony, poczuj się bezpiecznie, wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy, Twoi bliscy, spokój.
+- EN: Safety Assistant, watches over, responds, one tap, 24/7, a real person, a person not a bot, licensed security agency, feel safe, try it free: 3 Observations and 1 Help call, your loved ones.
 
 Avoid:
 - "ofiara / victim", "atak / attack" as headline words. *Why: frames the user as helpless.*
@@ -115,8 +115,8 @@ Avoid:
    - Bad: „Zapomnij o 112 – masz SafeMe.” *Why bad: dangerous and false.*
 
 4. Call to action
-   - Good (PL): „Poczuj się bezpiecznie. Pobierz aplikację i testuj przez 7 dni za darmo.”
-   - Good (EN): "Feel safe. Download the app and try it free for 7 days."
+   - Good (PL): „Poczuj się bezpiecznie. Pobierz aplikację i wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy.”
+   - Good (EN): "Feel safe. Download the app and try it free: 3 Observations and 1 Help call."
    - Bad: „KUP TERAZ!!! Promocja tylko dziś!” *Why bad: shouting, invented urgency.*
 
 5. Loved ones
@@ -240,7 +240,7 @@ Do / Don't:
 
 Structure:
 - Page width max 1120 px, mobile-first.
-- **Hero** (dark navy gradient): eyebrow → headline with one brand-red accent → subtitle (max ~2 lines on desktop) → CTA (App Store and Google Play badges, or one button) with the italic note "Testuj 7 dni za darmo." / "Try it free for 7 days." in the same row → trust line of exactly 3 short claims with blue check icons → phone mockup with blue glow.
+- **Hero** (dark navy gradient): eyebrow → headline with one brand-red accent → subtitle (max ~2 lines on desktop) → CTA (App Store and Google Play badges, or one button) with the italic note "Wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy." / "Try it free: 3 Observations and 1 Help call." in the same row → trust line of exactly 3 short claims with blue check icons → phone mockup with blue glow.
 - Recommended order for a consumer page: Hero → How it works (3 steps + vertical video) → Who is your Safety Assistant → Call for help (dark panel, red Help button) → Packages → Reviews → Employee benefit teaser → Safety gap diagram → Closing CTA.
 - B2B page: Hero with "Umów spotkanie / Book a meeting" → What SafeMe for business is → How it works → When employees use it → What the company gains → Onboarding steps → Cafeteria platforms → Pricing tiers → Awards → Reviews → FAQ → Contact person CTA.
 - Landing pages (segments: Zdrowie/Health, Nastolatki/Teens, Seniorzy/Seniors, Randki/Dating, Praca/Commute, Taxi, Prezent/Gift) have no navigation and one goal: download.
@@ -272,7 +272,7 @@ Confirmed rules:
 - Length: up to 60 s for every video. Aim for the shortest length that tells the story. *Why: 60 s fits Reels, TikTok and Shorts and leaves room for a full situation and resolution.*
 - Structure: hook in the first 2 s (a recognizable situation: a taxi turning off the route, footsteps behind you) → SafeMe action (tap, Assistant responds) → calm resolution → CTA.
 - Captions: always burned in, animated word by word (short-form style). Montserrat bold, white text with the currently spoken word highlighted in action blue #5BADFF, on a navy #0E1353 semi-opaque rounded box. Max 2 lines, max ~32 characters per line, inside the safe zone (not in the top 15% or bottom 20% of the frame where platform UI sits). Never highlight words in red. *Why: most viewers watch muted, and word-by-word captions hold attention; blue keeps the highlight calm.*
-- No separate outro screen. The CTA appears as captions in the last shot of the story ("Testuj 7 dni za darmo" / "Try it free for 7 days"). *Why: a cut to a branded end card loses viewers before the CTA.*
+- No separate outro screen. The CTA appears as captions in the last shot of the story ("Wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy" / "Try it free: 3 Observations and 1 Help call"). *Why: a cut to a branded end card loses viewers before the CTA.*
 - Logo: no logo during the video. The white full logo appears only in the last shot, together with the CTA captions. *Why: an early logo reads as an ad and lowers watch time.*
 - Music: calm, low-tempo ambient or soft electronic. No horror stings, sirens or alarm sounds as music. *Why: the music should lower tension, not build it.*
 - Colors: navy and cool tones in grading; red only on the Help button or the 112/999 point.
@@ -298,7 +298,7 @@ Layout:
 
 Copy:
 - First line is the hook: a concrete situation or question ("Taksówka zjechała z trasy?").
-- 2–4 short sentences, then one CTA *(why: short captions are read to the end on mobile)* ("Testuj 7 dni za darmo – link w bio." / "Try it free for 7 days – link in bio.").
+- 2–4 short sentences, then one CTA *(why: short captions are read to the end on mobile)* ("Wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy. Link w bio." / "Try it free: 3 Observations and 1 Help call. Link in bio.").
 - Emoji: allowed in moderation, 1–3 per post, never in the headline on the graphic and never as alarm symbols (🚨, ⚠️, 🆘). *Why: a light touch keeps posts native to the platform without undermining the calm tone.*
 - Reviews: only real testimonials, quoted verbatim, with first name. Never write new testimonials.
 
@@ -339,7 +339,7 @@ Formats, layout, type sizes and CMYK are **PROPOSAL – to be confirmed**. Conta
 - SafeMe does not replace 112/999. If someone is in immediate danger, they should call 112/999.
 
 ### Consumer pricing
-All plans include unlimited Observations, unlimited Help, Safety Assistant 24/7, and **the first 7 days free**. Annual price = monthly × 10 ("2 months free" / „2 miesiące gratis”). Cancel any time.
+All plans include unlimited Observations, unlimited Help and Safety Assistant 24/7. Every new account starts with **3 Observations and 1 Help call free**; there is no trial period. Annual price = monthly × 10 ("2 months free" / „2 miesiące gratis”). Cancel any time.
 
 Poland (PLN, gross):
 - Personal (1 person): 19,99 zł / month · 199,90 zł / year
@@ -393,7 +393,7 @@ Both markets:
 - UK hero: "A real person watching your journey home." (accent: "real person")
 - PL trust line: „Człowiek, nie bot · Dostępność 24/7 · Koncesjonowana agencja ochrony”
 - UK trust line: "A person, not a bot · On duty 24/7 · Licensed security agency"
-- Closing: „Poczuj się bezpiecznie. Pobierz aplikację i testuj przez 7 dni za darmo.” / "Feel safe. Download the app and try it free for 7 days."
+- Closing: „Poczuj się bezpiecznie. Pobierz aplikację i wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy.” / "Feel safe. Download the app and try it free: 3 Observations and 1 Help call."
 - Safety gap (PL): „Między poczuciem zagrożenia a momentem, w którym można wezwać służby, istnieje luka — tzw. safety gap. Gdy czujesz się niepewnie, ale nic jeszcze się nie stało, numer alarmowy Ci nie pomoże, bo nie ma podstaw do interwencji. Tę lukę wypełnia Asystent Bezpieczeństwa.”
 
 ### Company and contacts

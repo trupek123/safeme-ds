@@ -50,7 +50,7 @@ Both are **unlimited** in every plan.
 
 **Plan names (live site):** Personal · Family · Family+. „Family” carries the „Najpopularniejszy” / “Most popular” badge. Billing toggle: „Miesięcznie / Rocznie — 2 miesiące gratis” · “Monthly / Annual — 2 months free”. CTA per card: „Wybieram {plan}” / “Choose {plan}”.
 **Carrier billing (PL only):** „Dolicz do rachunku” — Play, Plus, T-Mobile, Orange.
-**Free trial:** first 7 days free, every plan.
+**Free use:** every new account gets 3 Observations and 1 Help call free. There is no trial period.
 **Voucher:** 360 days of protection for **199,90 zł** — "płacisz jak za 10 miesięcy, a korzystasz przez cały rok".
 
 **B2B (per employee / month, invoiced; rule 100+ = −20%, 200+ = −30% of retail, synced 02.10.2026 from safeme-site `lib/i18n.ts`):** PL 100+ 15,99 zł / os. (cena detaliczna 19,99 zł) · 200+ 13,99 zł / os. (oszczędność 30%) · 300+ oferta indywidualna. UK 100+ £6.39 (retail £7.99) · 200+ £5.59 (save 30%) · 300+ custom offer. No onboarding costs, no upfront fees; unlimited Help + Observations per licence. Employer has no access to employees' location or usage.
@@ -105,7 +105,7 @@ Total: 12 service pages (10 bilingual + 2 PL-only), 4 thank-you pages, 7 landing
 - **Eyebrow:** Asystent Bezpieczeństwa 24/7
 - **H1:** Prawdziwa osoba czuwa nad Twoją drogą do domu.
 - **Sub:** Powiedz aplikacji, dokąd idziesz. Przeszkolony Asystent Bezpieczeństwa na żywo śledzi Twoją trasę, we dnie i w nocy. Gdy coś wygląda podejrzanie, kontaktuje się z Tobą. Jeśli nie odpowiesz, wysyła pomoc na Twoją lokalizację.
-- **CTA:** store badges — note „Testuj 7 dni za darmo.”
+- **CTA:** store badges — note „Wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy.”
 - **Trust line:** Człowiek, nie bot · Dostępność 24/7 · Koncesjonowana agencja ochrony
 - **Sections (order):** Jak to działa (3 kroki: Ustaw trasę → Asystent Bezpieczeństwa czuwa nad trasą → Gdy coś jest nie tak, reaguje; + 30 s video) · Kim jest Asystent Bezpieczeństwa (stats: 30 sekund · 24/7 · Człowiek, nie bot) · Wezwij pomoc · Pakiety · Safety gap (scale: Czujesz niepokój → Coś się dzieje → 112) · Opinie · Benefit pracowniczy · closing CTA
 - **Stat claim:** „30 sekund — średni czas do pierwszego kontaktu od zgłoszenia”.
@@ -116,7 +116,7 @@ Total: 12 service pages (10 bilingual + 2 PL-only), 4 thank-you pages, 7 landing
 - **Eyebrow:** Safety Assistant 24/7
 - **H1:** A real person watching your journey home. — accent "real person"
 - **Sub:** Tell the app where you're going. A trained Safety Assistant follows your route live, day and night. If something looks wrong, they get in touch. If you can't answer, they send help to where you are.
-- **Note:** Try it free for 7 days. (italic, same row as store badges)
+- **Note:** Try it free: 3 Observations and 1 Help call. (italic, same row as store badges)
 - **Trust:** A person, not a bot · On duty 24/7 · Licensed security agency
 - **Steps:** "Three steps. / One person looking out for you." — Set your route · A Safety Assistant watches over it · If something's off, they act
 - **Help callout:** "Feel unsafe right now? One tap." — accent "One tap"; button "Call for help"
@@ -148,13 +148,13 @@ Hero (photo) → Step by step (Observation / Call for Help timelines) → Who is
 - **CTA:** Kup voucher
 
 ### Pobierz aplikację (/pobierz-aplikacje)
-- **H1:** Pobierz aplikację i testuj 7 dni za darmo
+- **H1:** Pobierz aplikację i przetestuj za darmo
 - **Sub:** Załóż konto w kilka minut i sprawdź, jak działa całodobowe wsparcie Asystentów Bezpieczeństwa - bez opłat i bez zobowiązań.
 
 ### Kontakt (/kontakt)
 - **H1:** Skontaktuj się z nami
 - **Sub:** Masz pytanie o aplikację, ofertę dla firm albo współpracę? Napisz do nas - odpowiadamy możliwie szybko.
-- **Closing:** Poczuj się bezpiecznie. Pobierz aplikację i testuj przez 7 dni za darmo.
+- **Closing:** Poczuj się bezpiecznie. Pobierz aplikację i wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy.
 
 ## The safety gap
 

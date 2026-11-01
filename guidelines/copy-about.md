@@ -12,7 +12,7 @@ Extracted from `runoio/safeme-site` main, `lib/i18n.ts` (28.09.2026). **Quote ve
   - **trust:** Dostępność 24/7 · Polska i UK · Koncesjonowana agencja ochrony
   - **subtitle:** Całodobowe wsparcie Asystentów Bezpieczeństwa w Twoim telefonie. Jednym kliknięciem zamówisz Obserwację trasy lub wezwiesz Pomoc.
   - **ctaLabel:** Pobierz aplikację
-  - **note:** Testuj 7 dni za darmo.
+  - **note:** Wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy.
 - **sections**
     - **title:** Dlaczego SafeMe, a nie 112?
     - **text:** Między poczuciem zagrożenia a momentem, w którym można wezwać służby, istnieje luka - tzw. safety gap. Gdy czujesz się niepewnie, ale nic jeszcze się nie stało, numer alarmowy Ci nie pomoże, bo nie ma podstaw do interwencji. Tę lukę wypełnia Asystent Bezpieczeństwa - wspiera Cię już wtedy, gdy pojawia się niepokój. /  / Asystent ma dostęp do Twojej lokalizacji i danych, dzięki czemu działa natychmiast - bez czekania na linii i oceniania zasadności zgłoszenia. Od razu proponuje rozwiązania, udziela wsparcia, a gdy trzeba, kieruje odpowiednie służby na miejsce. Działamy też prewencyjnie - reagujemy, zanim dojdzie do eskalacji zagrożenia.
@@ -107,7 +107,7 @@ Extracted from `runoio/safeme-site` main, `lib/i18n.ts` (28.09.2026). **Quote ve
   - Nielimitowane Obserwacje tras
   - Nielimitowane wezwania Pomocy
   - Asystent Bezpieczeństwa 24/7
-  - 7 dni za darmo
+  - 3 Obserwacje i 1 wezwanie Pomocy za darmo
 - **perPersonLabel:** za osobę
 - **benefit**
   - **eyebrow:** Dla firm
@@ -124,10 +124,10 @@ Extracted from `runoio/safeme-site` main, `lib/i18n.ts` (28.09.2026). **Quote ve
     - **answer:** Jeśli podczas Obserwacji trasy przestaniesz odpowiadać Asystentowi, traktujemy to jako sygnał ostrzegawczy i uruchamiamy procedurę reakcji – łącznie z wysłaniem służb na Twoją ostatnią znaną lokalizację, jeśli sytuacja tego wymaga.
     - **question:** Czy moja rodzina też musi mieć aplikację?
     - **answer:** Nie musi. Pakiety Family i Family+ pozwalają dodać bliskich do jednego konta, ale każda osoba korzysta z aplikacji niezależnie – zgłoszenie trafia do Asystenta Bezpieczeństwa, a nie do reszty rodziny, więc nikt nie musi czuwać przy telefonie.
-    - **question:** Ile kosztuje po okresie próbnym?
-    - **answer:** Pierwsze 7 dni są za darmo. Potem Personal to 19,99 zł miesięcznie, Family (3 osoby) 53,97 zł, a Family+ (5 osób) 89,95 zł. Przy płatności rocznej płacisz za 10 miesięcy, 2 masz gratis. Subskrypcję anulujesz w każdej chwili.
+    - **question:** Ile kosztuje SafeMe?
+    - **answer:** Na start masz za darmo 3 Obserwacje i 1 wezwanie Pomocy. Potem Personal to 19,99 zł miesięcznie, Family (3 osoby) 53,97 zł, a Family+ (5 osób) 89,95 zł. Przy płatności rocznej płacisz za 10 miesięcy, 2 masz gratis. Subskrypcję anulujesz w każdej chwili.
 - **finalCta**
-  - **text:** Poczuj się bezpiecznie. Pobierz aplikację i testuj przez 7 dni za darmo.
+  - **text:** Poczuj się bezpiecznie. Pobierz aplikację i wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy.
   - **primaryLabel:** Pobierz aplikację
 
 ## EN — /about
@@ -140,7 +140,7 @@ Extracted from `runoio/safeme-site` main, `lib/i18n.ts` (28.09.2026). **Quote ve
   - **trust:** Available 24/7 · Licensed security agency · A human on the other side
   - **subtitle:** Round-the-clock support from Safety Assistants in your phone. With one tap you can order an Observation of your route or call for Help.
   - **ctaLabel:** Download the app
-  - **note:** Try it free for 7 days.
+  - **note:** Try it free: 3 Observations and 1 Help call.
 - **sections**
     - **title:** Why SafeMe and not the emergency number?
     - **text:** Between feeling unsafe and the moment emergency services can be called there is a gap, the so-called safety gap. When you feel uneasy but nothing has happened yet, the emergency number cannot help you, because there are no grounds for an intervention. This gap is filled by the Safety Assistant, who supports you as soon as anxiety appears. /  / The Assistant has access to your location and details, so they act immediately, without keeping you on the line or questioning whether your report is justified. They propose solutions straight away, provide support and, when necessary, direct the appropriate services to the scene. We also act preventively and react before a threat escalates.
@@ -235,7 +235,7 @@ Extracted from `runoio/safeme-site` main, `lib/i18n.ts` (28.09.2026). **Quote ve
   - Unlimited route Observations
   - Unlimited Help calls
   - Safety Assistant 24/7
-  - 7 days free
+  - 3 Observations and 1 Help call free
 - **perPersonLabel:** per person
 - **benefit**
   - **eyebrow:** For business
@@ -252,8 +252,8 @@ Extracted from `runoio/safeme-site` main, `lib/i18n.ts` (28.09.2026). **Quote ve
     - **answer:** During a route Observation, if you stop answering your Safety Assistant, we treat it as a warning sign and start our response procedure, including sending the emergency services to your last known location if the situation calls for it.
     - **question:** Does my family need the app too?
     - **answer:** No. Family and Family+ let you add your loved ones to one account, but everyone uses the app on their own — reports go to your Safety Assistant, not to the rest of the family, so nobody has to sit by the phone.
-    - **question:** How much does it cost after the trial?
-    - **answer:** The first 7 days are free. After that, Personal is £7.99 a month, Family (3 people) £20.97, and Family+ (5 people) £34.95. Pay annually and get 2 months free. Cancel any time.
+    - **question:** How much does SafeMe cost?
+    - **answer:** You start with 3 Observations and 1 Help call free. After that, Personal is £7.99 a month, Family (3 people) £20.97, and Family+ (5 people) £34.95. Pay annually and get 2 months free. Cancel any time.
 - **finalCta**
-  - **text:** Feel safe. Download the app and try it free for 7 days.
+  - **text:** Feel safe. Download the app and try it free: 3 Observations and 1 Help call.
   - **primaryLabel:** Download the app

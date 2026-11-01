@@ -8,14 +8,14 @@ The standard hero treatment used across safeme.pl / safeme.uk (service pages) an
 2. **H1 with brand accent** — see rules below.
 3. **Subtitle** — Inter, `--text-lg`, max-width ~36rem, `--lh-relaxed`; on dark hero white at 80%.
 4. **Primary CTA** — store badges or a single button (navy/trust primary).
-5. **Note** (optional) — `--text-sm`, italic, white 65%, **in the same row as the store badges** on every page (not a separate line). e.g. "Testuj 7 dni za darmo."
+5. **Note** (optional) — `--text-sm`, italic, white 65%, **in the same row as the store badges** on every page (not a separate line). e.g. "Wypróbuj za darmo: 3 Obserwacje i 1 wezwanie Pomocy."
 6. **Trust line** (dark heroes only) — see rules below.
 
 ## H1 rules
 
 - Montserrat **extrabold (800)**, `line-height: 1.08`, `letter-spacing: -0.02em`.
 - Size: `clamp(2.25rem, 4vw, 3.5rem)` on service pages, `clamp(2rem, 6.5vw, 3.25rem)` on LPs.
-- **Brand accent**: exactly ONE meaningful fragment of the H1 colored brand red `#FF1616` (`--safeme-red`). The fragment must carry the value proposition ("Bezpieczeństwa", "benefit", "360 dni bezpieczeństwa", "7 dni za darmo") — never a random word, never more than one fragment per page.
+- **Brand accent**: exactly ONE meaningful fragment of the H1 colored brand red `#FF1616` (`--safeme-red`). The fragment must carry the value proposition ("Bezpieczeństwa", "benefit", "360 dni bezpieczeństwa", "przetestuj za darmo") — never a random word, never more than one fragment per page.
 - Works on both navy/gradient and white backgrounds.
 - IMPORTANT: this is a deliberate typographic exception to the "red = SOS only" rule. Action red `#ED3745` remains reserved for SOS/emergency UI in the product; the H1 accent always uses brand red `#FF1616`.
 
